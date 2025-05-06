@@ -1,0 +1,13 @@
+Purpose: List of Python packages needed to run the project
+
+Content:
+
+torch
+torchvision
+matplotlib
+numpy
+opencv-python
+pillow
+scikit-learn
+pyyaml
+tqdm
